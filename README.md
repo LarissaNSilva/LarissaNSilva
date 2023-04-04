@@ -1,4 +1,4 @@
-### Sou desenvolvedora web fullstack jr. em PHP. Formada no curso Técnico de Informática, trabalho atualmente na empresa BisaWeb Tecnologia da Informação.
+### Sou desenvolvedora web fullstack jr. em PHP. Técnica de Informática, trabalho atualmente na empresa BisaWeb Tecnologia da Informação e presto serviços para a empresa Navigator Inteligência em Investimentos como programadora júnior.
 
 <div align="center">
   <a href="https://github.com/LarissaNSilva">
