@@ -1,4 +1,6 @@
-### Desenvolvedora web full stack especializada em PHP, com ampla experiência em tecnologia da informação. Atualmente, faço parte da equipe da BisaWeb Tecnologia da Informação, onde desenvolvo soluções web de alta qualidade. Além disso, presto serviços para a empresa Navigator Inteligência em Investimentos.
+<div style="text-align: justify;"> 
+  Desenvolvedora web full stack especializada em PHP, com ampla experiência em tecnologia da informação. Atualmente, faço parte da equipe da BisaWeb Tecnologia da     Informação, onde desenvolvo soluções web de alta qualidade. Além disso, presto serviços para a empresa Navigator Inteligência em Investimentos.
+ </div>
 
 <div align="center">
   <a href="https://github.com/LarissaNSilva">
