@@ -1,5 +1,5 @@
  
- ### Desenvolvedora web full stack especializada em PHP, com ampla experiência em tecnologia da informação. Atualmente, faço parte da equipe da BisaWeb Tecnologia da     Informação, onde desenvolvo soluções web de alta qualidade. Além disso, presto serviços para a empresa Navigator Inteligência em Investimentos.
+ ### Sou desenvolvedora de software com experiência tanto na área de back-end quanto de front-end. Minha experiência abrange uma ampla variedade de tecnologias, incluindo PHP, JavaScript, MySQL, HTML e CSS. Além disso, tenho experiência com Angular e Node.js.
 
 
 <div align="center">
